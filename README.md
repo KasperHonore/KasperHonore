@@ -10,7 +10,7 @@ Then I build that.
 
 I use AI coding agents heavily. Claude Code, coding agents, whatever gets the idea into working software faster. I am not precious about writing every line by hand. I care much more about whether the thing works, whether people can use it, and whether I understand it well enough to fix it when it breaks.
 
-A lot of my work has been private, client-specific, or just built for the people around me. This GitHub is where I’m slowly making more of it public.
+This GitHub is where I’m slowly making more of my work public.
 
 ## What you’ll find here
 
